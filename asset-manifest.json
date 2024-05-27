@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/color-picker-react/static/css/main.bd11802b.css",
+    "main.js": "/color-picker-react/static/js/main.37565369.js",
+    "static/js/453.1de7f318.chunk.js": "/color-picker-react/static/js/453.1de7f318.chunk.js",
+    "index.html": "/color-picker-react/index.html",
+    "main.bd11802b.css.map": "/color-picker-react/static/css/main.bd11802b.css.map",
+    "main.37565369.js.map": "/color-picker-react/static/js/main.37565369.js.map",
+    "453.1de7f318.chunk.js.map": "/color-picker-react/static/js/453.1de7f318.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd11802b.css",
+    "static/js/main.37565369.js"
+  ]
+}
